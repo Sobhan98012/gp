@@ -1,0 +1,20 @@
+[
+  {
+    "لینک طاق": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "امار": "80نفر",
+    "توضیح": "تست است",
+    "وضعیت": "فعال است",
+    "ایدی فروش": "sobhan_008",
+    "لینک گپ ": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "ایدی فروش2": "sobhan_008"
+  },
+  {
+    "لینک طاق": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "امار": "80نفر",
+    "توضیح": "تست است",
+    "وضعیت": "فعال است",
+    "ایدی فروش": "sobhan_008",
+    "لینک گپ ": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "ایدی فروش2": "sobhan_008"
+  }
+]
