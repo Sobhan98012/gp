@@ -5,7 +5,7 @@
     "توضیح": "تست است",
     "وضعیت": "فعال است",
     "ایدی فروش": "sobhan_008",
-    "لینک گپ ": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "لینک گپ ": "BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
     "ایدی فروش2": "sobhan_008"
   },
   {
@@ -14,7 +14,7 @@
     "توضیح": "تست است",
     "وضعیت": "فعال است",
     "ایدی فروش": "sobhan_008",
-    "لینک گپ ": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
+    "لینک گپ ": "BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
     "ایدی فروش2": "sobhan_008"
   }
 ]
