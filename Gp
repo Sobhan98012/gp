@@ -1,7 +1,7 @@
 [
   {
     "لینک طاق": "https://rubika.ir/joing/BGFJECIE0JJIZMQAKEFAOUFKMJBUBVUO",
-    "امار": "80نفر",
+    "امار": "120نفر",
     "توضیح": "تست است",
     "وضعیت": "فعال است",
     "ایدی فروش": "sobhan_008",
